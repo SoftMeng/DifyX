@@ -11,7 +11,10 @@
     爱国、敬业、诚信、友善、合理
 </div>
 
-<p align="center">
+
+## Base on Dify
+https://github.com/langgenius/dify
+<p align="left">
     <a href="https://dify.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Product-F04438"></a>
     <a href="https://dify.ai/pricing" target="_blank">
@@ -37,7 +40,7 @@
 
 # DifyX
 
-Dify's integrated management.
+Dify's integrated management. TODO
 
 ## Diagram
 
